@@ -6,8 +6,9 @@ Oi! 👋  Meu nome é Pedro Mayer Pigatti
 
 <div align="center">
   <a href="https://github.com/pedropigatti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedropigatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pedropigatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
